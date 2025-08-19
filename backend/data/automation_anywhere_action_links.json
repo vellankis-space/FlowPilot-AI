@@ -1,0 +1,1678 @@
+[
+  {
+    "package": "Packages available in v.37",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/v37-packages-actions-updates.html"
+  },
+  {
+    "package": "Package SDK v.37 release",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/package-sdk-v37-release.html"
+  },
+  {
+    "package": "Packages updated in v.36",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/v36-packages-actions-updates.html"
+  },
+  {
+    "package": "Packages updated in v.35",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/v35-packages-actions-updates.html"
+  },
+  {
+    "package": "Packages updated in v.34",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/v34-packages-actions-updates.html"
+  },
+  {
+    "package": "Package SDK v.34 release",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/package-sdk-v34-release.html"
+  },
+  {
+    "package": "Packages updated in v.33",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/v33-packages-actions-updates.html"
+  },
+  {
+    "package": "Packages updated in v.32",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/v32-packages-actions-updates.html"
+  },
+  {
+    "package": "Package SDK v.32 release",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/package-sdk-v32-release.html"
+  },
+  {
+    "package": "Packages updated in v.31",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/v31-packages-actions-updates.html"
+  },
+  {
+    "package": "Packages updated in v.30",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/v30-packages-actions-updates.html"
+  },
+  {
+    "package": "Package SDK v.30 release",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/package-sdk-v30-release.html"
+  },
+  {
+    "package": "Packages updated in v.29",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/release-notes/v29-packages-actions-updates.html"
+  },
+  {
+    "package": "Package SDK v.29 release",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/package-sdk-v29-release.html"
+  },
+  {
+    "package": "Packages updated in v.28",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/release-notes/v28-packages-actions-updates.html"
+  },
+  {
+    "package": "Packages updated in v.27",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/release-notes/v27-packages-actions-updates.html"
+  },
+  {
+    "package": "Package updates overview",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/packages-releases-overview.html"
+  },
+  {
+    "package": "Periodic package updates - summary list",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/periodic-package-updates.html"
+  },
+  {
+    "package": "Periodic packages updated in 2024",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/periodic-packages-updated-in-2024.html"
+  },
+  {
+    "package": "Periodic packages updated in 2023",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/periodic-packages-updated-2023.html"
+  },
+  {
+    "package": "Periodic package updates - FAQ",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/periodic-packages-faq.html"
+  },
+  {
+    "package": "Active Directory package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/active-directory-package-releases.html"
+  },
+  {
+    "package": "AI package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/ai-package-releases.html"
+  },
+  {
+    "package": "AI Skills package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/ai-skills-package-release.html"
+  },
+  {
+    "package": "Advanced Classifier package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/advanced-classifier-package-releases.html"
+  },
+  {
+    "package": "Analyze package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/analyze-package-updates.html"
+  },
+  {
+    "package": "App Integration package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/app-intergration-package-releases.html"
+  },
+  {
+    "package": "Apple Keynote package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/apple-keynote-updates.html"
+  },
+  {
+    "package": "Apple Mail package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/apple-mail-package-updates.html"
+  },
+  {
+    "package": "Apple Numbers package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/apple-numbers-package-releases.html"
+  },
+  {
+    "package": "AppleScript package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/applescript-pkg-updts.html"
+  },
+  {
+    "package": "Application package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/application-package-releases.html"
+  },
+  {
+    "package": "Boolean package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/boolean-package-releases.html"
+  },
+  {
+    "package": "Bot Migration package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/bot-migration-package-releases.html"
+  },
+  {
+    "package": "Browser package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/browser-package-releases.html"
+  },
+  {
+    "package": "Clipboard package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/clipboard-package-releases.html"
+  },
+  {
+    "package": "Comment package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/comment-package-releases.html"
+  },
+  {
+    "package": "Credential package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/credentials-package-releases.html"
+  },
+  {
+    "package": "CSV/TXT package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/csv-txt-package-releases.html"
+  },
+  {
+    "package": "Data Table package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/data-table-package-releases.html"
+  },
+  {
+    "package": "Database package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/database-package-releases.html"
+  },
+  {
+    "package": "Datetime package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/datetime-package-releases.html"
+  },
+  {
+    "package": "Delay package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/delay-package-releases.html"
+  },
+  {
+    "package": "Dictionary package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/dictionary-package-releases.html"
+  },
+  {
+    "package": "DLL package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/dll-package-releases.html"
+  },
+  {
+    "package": "Document Classifier package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/classifier-package-updates.html"
+  },
+  {
+    "package": "Document Extraction package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/document-extraction-package-releases.html"
+  },
+  {
+    "package": "Email package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/email-package-releases.html"
+  },
+  {
+    "package": "Email trigger package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/email-trigger-package-releases.html"
+  },
+  {
+    "package": "Error handler package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/error-handler-package-releases.html"
+  },
+  {
+    "package": "Excel advanced package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/excel-advanced-package-releases.html"
+  },
+  {
+    "package": "Excel basic package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/excel-basic-package-releases.html"
+  },
+  {
+    "package": "File package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/file-package-releases.html"
+  },
+  {
+    "package": "File Folder trigger package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/file-folder-trigger-package-updates.html"
+  },
+  {
+    "package": "Folder package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/folder-package-releases.html"
+  },
+  {
+    "package": "FTP/SFTP package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ftp-sftp-package-releases.html"
+  },
+  {
+    "package": "Generative AI package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/generative-ai-package-releases.html"
+  },
+  {
+    "package": "GitHub package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/ujl1732637516660.html"
+  },
+  {
+    "package": "Google Application Integration package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/google-application-integration-package-releases.html"
+  },
+  {
+    "package": "Google Calendar package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/google-calendar-package-releases.html"
+  },
+  {
+    "package": "Google Drive package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/google-drive-package-releases.html"
+  },
+  {
+    "package": "Google Sheets package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/google-sheets-package-releases.html"
+  },
+  {
+    "package": "Hotkey trigger package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/hotkey-package-releases.html"
+  },
+  {
+    "package": "If package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/if-package-releases.html"
+  },
+  {
+    "package": "Image Recognition package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/image-recognition-package-releases.html"
+  },
+  {
+    "package": "Interactive Forms package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/interactive-forms-package-releases.html"
+  },
+  {
+    "package": "IQ Bot package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/iq-bot-package-releases.html"
+  },
+  {
+    "package": "IQ Bot - Document Automation Bridge package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/bridge-package-updates.html"
+  },
+  {
+    "package": "IQ Bot Pre-processor package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/pre-processor-package-updates.html"
+  },
+  {
+    "package": "JavaScript package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/javascript-package-releases.html"
+  },
+  {
+    "package": "Jira package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/jira-package-releases.html"
+  },
+  {
+    "package": "JSON package releases",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/json-package-releases.html"
+  },
+  {
+    "package": "Legacy AISense package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/legacy-aisense--updates.html"
+  },
+  {
+    "package": "Legacy Automation package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/legacy-automation-package-releases.html"
+  },
+  {
+    "package": "List package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/list-package-releases.html"
+  },
+  {
+    "package": "Logging package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/log-to-file-package-releases.html"
+  },
+  {
+    "package": "Loop package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/loop-package-releases.html"
+  },
+  {
+    "package": "Message Box package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/message-box-package-releases.html"
+  },
+  {
+    "package": "Microsoft 365 Calendar package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-calendar-package-releases.html"
+  },
+  {
+    "package": "Microsoft 365 Excel package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-excel-package-releases.html"
+  },
+  {
+    "package": "Microsoft 365 OneDrive package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-onedrive-package-releases.html"
+  },
+  {
+    "package": "Microsoft 365 Outlook package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/micosoft-365-outlook-package-releases.html"
+  },
+  {
+    "package": "Microsoft 365 Outlook trigger package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/microsoft-365-outlook-trigger-package-updates.html"
+  },
+  {
+    "package": "Microsoft Outlook (macOS) package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/ms-mac-package-releases.html"
+  },
+  {
+    "package": "Microsoft Teams package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/ms-teams-updates.html"
+  },
+  {
+    "package": "Mouse package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/mouse-package-releases.html"
+  },
+  {
+    "package": "Number package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/number-package-releases.html"
+  },
+  {
+    "package": "OCR package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ocr-package-releases.html"
+  },
+  {
+    "package": "PDF package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/pdf-package-releases.html"
+  },
+  {
+    "package": "PGP package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/pgp-package-releases.html"
+  },
+  {
+    "package": "Ping package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ping-package-releases.html"
+  },
+  {
+    "package": "Pipeline Accelerator package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/pipeline-accelerator-package-updates.html"
+  },
+  {
+    "package": "Play Sound package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/play-sound-package-releases.html"
+  },
+  {
+    "package": "Printer package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/printer-package-releases.html"
+  },
+  {
+    "package": "Process Composer package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/process-composer-package-releases.html"
+  },
+  {
+    "package": "Prompt package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/prompt-package-releases.html"
+  },
+  {
+    "package": "Python Script package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/python-package-releases.html"
+  },
+  {
+    "package": "Record package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/record-package-releases.html"
+  },
+  {
+    "package": "Recorder package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/recorder-package-releases.html"
+  },
+  {
+    "package": "REST Web Services package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/rest-web-services-package-releases.html"
+  },
+  {
+    "package": "Salesforce package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/salesforce-package-releases.html"
+  },
+  {
+    "package": "SAP BAPI package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/sap-bapi-package-releases.html"
+  },
+  {
+    "package": "SAP package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/sap-package-releases.html"
+  },
+  {
+    "package": "Screen package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/screen-package-releases.html"
+  },
+  {
+    "package": "Service package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/service-package-releases.html"
+  },
+  {
+    "package": "ServiceNow package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/servicenow-package-releases.html"
+  },
+  {
+    "package": "SharePoint package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/sharepoint-package-releases.html"
+  },
+  {
+    "package": "Simulate keystrokes package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/simulate-keystrokes-package-releases.html"
+  },
+  {
+    "package": "SNMP package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/snmp-package-releases.html"
+  },
+  {
+    "package": "SOAP Web Service package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/soap-web-services-package-releases.html"
+  },
+  {
+    "package": "Step package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/step-package-updates.html"
+  },
+  {
+    "package": "String package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/string-package-releases.html"
+  },
+  {
+    "package": "System package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/system-package-releases.html"
+  },
+  {
+    "package": "Task Bot package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/taskbot-package-releases.html"
+  },
+  {
+    "package": "Terminal Emulator package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/terminal-emulator-package-releases.html"
+  },
+  {
+    "package": "Text file package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/text-file-package-releases.html"
+  },
+  {
+    "package": "V11 Task Bot package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/v11-task-bot-package-releases.html"
+  },
+  {
+    "package": "VBScript package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/vbscript-package-releases.html"
+  },
+  {
+    "package": "Wait package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/wait-package-releases.html"
+  },
+  {
+    "package": "Window package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/window-package-releases.html"
+  },
+  {
+    "package": "Windows trigger package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/windows-trigger-package-updates.html"
+  },
+  {
+    "package": "Workday package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/workday-package-releases.html"
+  },
+  {
+    "package": "Workload package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/workload-package-updates.html"
+  },
+  {
+    "package": "XML package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/xml-package-releases.html"
+  },
+  {
+    "package": "Previous Package SDK Release Notes",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-package-dev-kit-rel-note.html"
+  },
+  {
+    "package": "AI Skills package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/ai-tools-skl-package.html"
+  },
+  {
+    "package": "Audit logs for generative AI interactions",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/audit-log-ai-int.html"
+  },
+  {
+    "package": "Suggest next actions",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/sna-overview.html"
+  },
+  {
+    "package": "Suggest Next Actions settings",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/suggest-next-actions-settings.html"
+  },
+  {
+    "package": "Suggest next actions - best practices",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/sna-best-practices.html"
+  },
+  {
+    "package": "Suggest next actions FAQ",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/sna-faq.html"
+  },
+  {
+    "package": "Components for Control Room and bot actions",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/deployment-planning/cloud-requirements-supported-plugin-services.html"
+  },
+  {
+    "package": "Install Automation Anywhere remote agent for Citrix 2.0: Recorder package version 2.8.6",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/deployment-planning/remote-agent-installation-control-room-v26-later.html"
+  },
+  {
+    "package": "Install Automation Anywhere remote agent for Citrix 1.0: Recorder package version 2.7.3 and earlier",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/deployment-planning/remote-agent-installation-control-room-v25-earlier.html"
+  },
+  {
+    "package": "Screen resolution dependent packages",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/administration/settings/resolution-dependent-packages.html"
+  },
+  {
+    "package": "Packages",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/using-the-workbench/cloud-package-management.html"
+  },
+  {
+    "package": "RBAC on packages",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/security-architecture/rbac-on-package-access.html"
+  },
+  {
+    "package": "Configure RBAC for packages",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/packages/configure-package-availability.html"
+  },
+  {
+    "package": "Packages RBAC for bot developer",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/packages/packages-rbac-bot-developer.html"
+  },
+  {
+    "package": "Updating packages in Control Room",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/administration/settings/package-updates-overview.html"
+  },
+  {
+    "package": "Automatic package updates for On-Premises Control Room",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/administration/settings/on-prem-package-configuration.html"
+  },
+  {
+    "package": "Automatic package updates for Cloud Control Room",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/administration/settings/preload-package-settings.html"
+  },
+  {
+    "package": "Add packages to the Control Room",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/packages/cloud-add-package-control-room.html"
+  },
+  {
+    "package": "Updating package versions",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/administration/settings/package-version-update.html"
+  },
+  {
+    "package": "Update bots to default package version",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/packages/update-bot-package-version.html"
+  },
+  {
+    "package": "View audit log for bulk package updates",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/administration/settings/view-audit-log-package-updates.html"
+  },
+  {
+    "package": "Removing unused package versions",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/overview-deleting-unused-package-versions.html"
+  },
+  {
+    "package": "Delete unused package versions",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/delete-unused-package-versions.html"
+  },
+  {
+    "package": "Manage Control Room packages",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/packages/cloud-manage-control-room-packages.html"
+  },
+  {
+    "package": "Packages certified for Microsoft Office",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/packages-certified-ms-office-2021.html"
+  },
+  {
+    "package": "Packages certified for Microsoft Windows 11",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/packages-certified-for-microsoft-windows-11.html"
+  },
+  {
+    "package": "Actions allowed on view queue page",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/workload/cloud-view-queue-actions.html"
+  },
+  {
+    "package": "Work item status and actions",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/workload/cloud-work-item-status-actions.html"
+  },
+  {
+    "package": "Pipeline Accelerator package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/pipeline-accelerator-package.html"
+  },
+  {
+    "package": "Conditional actions, rules, and elements",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/forms/add-rules-to-form.html"
+  },
+  {
+    "package": "Packages supported in API Tasks",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/packages-supported-api-tasks.html"
+  },
+  {
+    "package": "Actions to build automations",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/using-the-workbench/cloud-commands-panel.html"
+  },
+  {
+    "package": "Active Directory package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-active-directory.html"
+  },
+  {
+    "package": "AI package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/ai-package.html"
+  },
+  {
+    "package": "Analyze package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/using-the-workbench/cloud-analyze-command.html"
+  },
+  {
+    "package": "App Integration package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-app-integration-package.html"
+  },
+  {
+    "package": "Application package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-application-command.html"
+  },
+  {
+    "package": "Apple Keynote package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-appkeynote-package.html"
+  },
+  {
+    "package": "Close action in the Apple Keynote package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-appkeynote-close-present.html"
+  },
+  {
+    "package": "Get column name action in Apple Keynote package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-appkeynote-get-colname.html"
+  },
+  {
+    "package": "Get row number action in Apple Keynote package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-appkeynote-get-rownum.html"
+  },
+  {
+    "package": "Go to cell action in Apple Keynote package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-appkeynote-go-tocell.html"
+  },
+  {
+    "package": "Open action in the Apple Keynote package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-appkeynote-open-present.html"
+  },
+  {
+    "package": "Set cell action in Apple Keynote package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-appkeynote-set-cell.html"
+  },
+  {
+    "package": "Write from data table action in Apple Keynote package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-appkeynote-write-datatab.html"
+  },
+  {
+    "package": "Apple Mail package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-apple-mail-package.html"
+  },
+  {
+    "package": "Change status action in the Apple Mail package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/apple-mail-change-status.html"
+  },
+  {
+    "package": "Check if folder exists action in the Apple Mail package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/apple-mail-check-if-folder-exists.html"
+  },
+  {
+    "package": "Connect and Disconnect actions in the Apple Mail package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/apple-mail-connect-disconnect.html"
+  },
+  {
+    "package": "Delete and Delete all actions in the Apple Mail package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/apple-mail-delete.html"
+  },
+  {
+    "package": "Forward action in the Apple Mail package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/apple-mail-forward.html"
+  },
+  {
+    "package": "Move and Move All actions in the Apple Mail package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/apple-mail-move.html"
+  },
+  {
+    "package": "Reply and Reply All actions in the Apple Mail package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/apple-mail-reply-reply-all.html"
+  },
+  {
+    "package": "Save attachments and Save all attachments action in the Apple Mail package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/apple-mail-save-attachments.html"
+  },
+  {
+    "package": "Save email action in the Apple Mail package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/apple-mail-save-email.html"
+  },
+  {
+    "package": "Send action in the Apple Mail package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/apple-mail-send.html"
+  },
+  {
+    "package": "Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-package.html"
+  },
+  {
+    "package": "Create spreadsheet action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-crt-spsheet.html"
+  },
+  {
+    "package": "Close action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-close-spsheet.html"
+  },
+  {
+    "package": "Open action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-open-spsheet.html"
+  },
+  {
+    "package": "Save spreadsheet action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-save-spsheet.html"
+  },
+  {
+    "package": "Create sheet action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-create-sht.html"
+  },
+  {
+    "package": "Delete sheet action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-delete-sht.html"
+  },
+  {
+    "package": "Get all sheet names action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-get-all-wrsht-name.html"
+  },
+  {
+    "package": "Get sheet name action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-get-wrsht-name.html"
+  },
+  {
+    "package": "Rename sheet action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-rename-sht.html"
+  },
+  {
+    "package": "Retrieve sheets count action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-rtv-sht-cont.html"
+  },
+  {
+    "package": "Switch to sheet action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-switch-sht.html"
+  },
+  {
+    "package": "Create table action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-create-tab.html"
+  },
+  {
+    "package": "Delete table action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-delete-tab.html"
+  },
+  {
+    "package": "Get all table names action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-get-all-tab-name.html"
+  },
+  {
+    "package": "Get table name action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-get-tab-name.html"
+  },
+  {
+    "package": "Rename table action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-rename-tab.html"
+  },
+  {
+    "package": "Get cell address action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-get-cell-address.html"
+  },
+  {
+    "package": "Get cell data action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-get-cell-data.html"
+  },
+  {
+    "package": "Go to cell action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-go-to-cell.html"
+  },
+  {
+    "package": "Get multiple cell action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-get-mutpl-cell.html"
+  },
+  {
+    "package": "Set cell data action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-set-cell-data.html"
+  },
+  {
+    "package": "Get number of columns action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-get-num-cols.html"
+  },
+  {
+    "package": "Get number of rows action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-get-num-rows.html"
+  },
+  {
+    "package": "Insert rows/columns action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-isrt-rows-cols.html"
+  },
+  {
+    "package": "Read row or column action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-rd-row-col.html"
+  },
+  {
+    "package": "Select cells/columns/rows action in Apple Numbers package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mos-num-sl-cell-col-row.html"
+  },
+  {
+    "package": "AppleScript package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/applescript-pkg.html"
+  },
+  {
+    "package": "Open action in AppleScript package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/opn-act-applescript-pkg.html"
+  },
+  {
+    "package": "Run action in AppleScript package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/run-act-applescript-pkg.html"
+  },
+  {
+    "package": "Close action in AppleScript package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/clse-act-applescript-pkg.html"
+  },
+  {
+    "package": "AWS Comprehend NLP package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-aws-comprehend-nlp.html"
+  },
+  {
+    "package": "Boolean package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-boolean-command.html"
+  },
+  {
+    "package": "Bot migration package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-bot-migration-package.html"
+  },
+  {
+    "package": "Browser package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-browser-command.html"
+  },
+  {
+    "package": "Clipboard package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-clipboard-command.html"
+  },
+  {
+    "package": "Credential package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-credential-package.html"
+  },
+  {
+    "package": "CSV/TXT package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-csv-text-command.html"
+  },
+  {
+    "package": "Comment package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-comment-command.html"
+  },
+  {
+    "package": "Data Table package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-data-table-command.html"
+  },
+  {
+    "package": "Assign action in the Data Table package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/data-table-package-assign-action.html"
+  },
+  {
+    "package": "Database package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-database-command.html"
+  },
+  {
+    "package": "Datetime package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-date-time-operations-command.html"
+  },
+  {
+    "package": "Delay package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-delay-command.html"
+  },
+  {
+    "package": "Dictionary package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-dictionary-command.html"
+  },
+  {
+    "package": "DLL package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-run-dll.html"
+  },
+  {
+    "package": "Email package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-email-automation-command.html"
+  },
+  {
+    "package": "Using Connect action in Email package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-using-connect-action.html"
+  },
+  {
+    "package": "Error handler package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-error-handling-command.html"
+  },
+  {
+    "package": "Excel basic package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-excel-action.html"
+  },
+  {
+    "package": "Excel advanced package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-excel-command.html"
+  },
+  {
+    "package": "File package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-file-command.html"
+  },
+  {
+    "package": "Folder package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-folder-command.html"
+  },
+  {
+    "package": "FTP / SFTP package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-ftp-sftp-command.html"
+  },
+  {
+    "package": "Fuzzy match package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-fuzzy-match-package.html"
+  },
+  {
+    "package": "Generative AI package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/generative-ai-packages.html"
+  },
+  {
+    "package": "Genesys package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/using-the-workbench/genesys-onboarding-commands.html"
+  },
+  {
+    "package": "Google Application Integration package (formerly known as Apigee package)",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/google-application-integration-package.html"
+  },
+  {
+    "package": "Google packages",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/google-packages.html"
+  },
+  {
+    "package": "Google Calendar package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-google-calendar.html"
+  },
+  {
+    "package": "Google Drive package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-google-drive.html"
+  },
+  {
+    "package": "Google Sheets package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-google-sheets.html"
+  },
+  {
+    "package": "Connect action for Google packages",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/using-connect-action-google-packages.html"
+  },
+  {
+    "package": "Disconnect action for Google packages",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/google-calendar-disconnect.html"
+  },
+  {
+    "package": "Google Document AI package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-google-document-ai-package.html"
+  },
+  {
+    "package": "Goto package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/goto-package.html"
+  },
+  {
+    "package": "IBM Watson Authentication package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-ibm-watson-authentication.html"
+  },
+  {
+    "package": "IBM Watson Speech to Text package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-ibm-watson-speech-to-text.html"
+  },
+  {
+    "package": "If package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-if-command.html"
+  },
+  {
+    "package": "Image Recognition package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-image-recognition-action.html"
+  },
+  {
+    "package": "Interactive forms package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/using-the-workbench/cloud-interactive-forms.html"
+  },
+  {
+    "package": "IQ Bot package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-commands-iq-bot.html"
+  },
+  {
+    "package": "IQ Bot Extraction package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-auto-extraction.html"
+  },
+  {
+    "package": "Move from IQ Bot Extraction package to Document Automation",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/move-li-to-da.html"
+  },
+  {
+    "package": "JavaScript package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-javascript-command.html"
+  },
+  {
+    "package": "JSON package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-json-package.html"
+  },
+  {
+    "package": "Legacy Automation package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-legacy-automation-package.html"
+  },
+  {
+    "package": "Using legacy Web actions",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-using-legacy-web-actions.html"
+  },
+  {
+    "package": "List package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-list-command.html"
+  },
+  {
+    "package": "Logging package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-log-to-file-command.html"
+  },
+  {
+    "package": "Loop package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-loop-command.html"
+  },
+  {
+    "package": "Message box package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-message-box-command.html"
+  },
+  {
+    "package": "Microsoft LUIS NLP package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-microsoft-luis-nlp.html"
+  },
+  {
+    "package": "Mouse package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-mouse-command.html"
+  },
+  {
+    "package": "Number package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-number-package.html"
+  },
+  {
+    "package": "OCR package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-ocr-command-using.html"
+  },
+  {
+    "package": "Using Capture window action from OCR package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-ocr-capture-window.html"
+  },
+  {
+    "package": "Using Capture area action from OCR package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-ocr-capture-area.html"
+  },
+  {
+    "package": "Microsoft 365 Calendar package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-office-365-calendarv.10-package.html"
+  },
+  {
+    "package": "Using Connect action in Microsoft 365 Calendar package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/using-the-connect-action.html"
+  },
+  {
+    "package": "Using Disconnect action in Microsoft 365 Calendar package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/one-drive-disconnect-action.html"
+  },
+  {
+    "package": "Using Microsoft 365 Calendar actions in a loop",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-using-office-365-calendar-action-loop.html"
+  },
+  {
+    "package": "Microsoft 365 Excel package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-office-365-excel-package.html"
+  },
+  {
+    "package": "Using Connect action in Microsoft 365 Excel package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/using-connect-action-in-microsoft-365-excel-package.html"
+  },
+  {
+    "package": "Microsoft 365 OneDrive package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-one-drive-package.html"
+  },
+  {
+    "package": "Using Connect action in Microsoft 365 OneDrive package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/using-connect-action-in-microsoft-365-onedrive-package.html"
+  },
+  {
+    "package": "Using the One Drive actions in a loop",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-using-onedrive-actions-in-loop.html"
+  },
+  {
+    "package": "Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-outlook-package.html"
+  },
+  {
+    "package": "Assign attachment(s) action in Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/csh-assign-attachments-action.html"
+  },
+  {
+    "package": "Change status action in Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-outlook-change-status.html"
+  },
+  {
+    "package": "Check if folder exists action in Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-outlook-check-if-folder-exists.html"
+  },
+  {
+    "package": "Using Connect action in Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-outlook-connect.html"
+  },
+  {
+    "package": "Delete action in Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-outlook-delete.html"
+  },
+  {
+    "package": "Delete all action in Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-outlook-delete-all.html"
+  },
+  {
+    "package": "Disconnect action in Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-outlook-disconnect.html"
+  },
+  {
+    "package": "Forward action in Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-outlook-forward.html"
+  },
+  {
+    "package": "Move action in Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-outlook-move.html"
+  },
+  {
+    "package": "Move all action in Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-outlook-move-all.html"
+  },
+  {
+    "package": "Reply action in Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-outlook-reply.html"
+  },
+  {
+    "package": "Reply all action in Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-outlook-reply-all.html"
+  },
+  {
+    "package": "Save all attachments action in Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-outlook-save-all-attachments.html"
+  },
+  {
+    "package": "Save attachments action in Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-outlook-save-attachments.html"
+  },
+  {
+    "package": "Save email action in Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-outlook-save-email.html"
+  },
+  {
+    "package": "Send action in Microsoft 365 Outlook package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ms-365-outlook-send.html"
+  },
+  {
+    "package": "Microsoft Outlook (macOS) package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/microsoft-outlook-package.html"
+  },
+  {
+    "package": "Check if folder exists action in Microsoft Outlook (macOS) package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mac-ms-outlook-check-if-folder-exists.html"
+  },
+  {
+    "package": "Change status action in Microsoft Outlook (macOS) package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mac-ms-outlook-change-status.html"
+  },
+  {
+    "package": "Delete and Delete all actions in Microsoft Outlook (macOS) package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mac-ms-outlook-delete.html"
+  },
+  {
+    "package": "Forward action in Microsoft Outlook (macOS) package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mac-ms-outlook-forward.html"
+  },
+  {
+    "package": "Move and Move all actions in Microsoft Outlook (macOS) package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mac-ms-outlook-move.html"
+  },
+  {
+    "package": "Reply and Reply All actions in Microsoft Outlook (macOS) package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mac-ms-outlook-reply.html"
+  },
+  {
+    "package": "Save attachments and Save all attachments actions in Microsoft Outlook (macOS) package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mac-ms-outlook-save-attachments.html"
+  },
+  {
+    "package": "Save email action in Microsoft Outlook (macOS) package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mac-ms-outlook-save-email.html"
+  },
+  {
+    "package": "Send action in Microsoft Outlook (macOS) package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mac-ms-outlook-send.html"
+  },
+  {
+    "package": "Using Connect and Disconnect actions in Microsoft Outlook (macOS) package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/mac-ms-outlook-connect-disconnect.html"
+  },
+  {
+    "package": "Microsoft Teams package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/ms-teams-pkg.html"
+  },
+  {
+    "package": "PDF package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-pdf-integration-command.html"
+  },
+  {
+    "package": "PGP package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-pgp-command.html"
+  },
+  {
+    "package": "Play Sound package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-play-sound-package.html"
+  },
+  {
+    "package": "Printer package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-printer-command.html"
+  },
+  {
+    "package": "Process Composer package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/cp-pc-package.html"
+  },
+  {
+    "package": "Prompt package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-prompt-command.html"
+  },
+  {
+    "package": "Python Script package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-python-command.html"
+  },
+  {
+    "package": "Record package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/record-command.html"
+  },
+  {
+    "package": "Add column action in the Record package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/add-column-action-in-record-package.html"
+  },
+  {
+    "package": "Assign action in the Record package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/record-assign.html"
+  },
+  {
+    "package": "Delete column action in the Record package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/delete-column--in-record-.html"
+  },
+  {
+    "package": "Update column action in the Record package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/update-column--in-record-.html"
+  },
+  {
+    "package": "Recorder package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-recorder-command.html"
+  },
+  {
+    "package": "Actions performed on objects captured with Universal Recorder",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-recorder-object-controls-and-actions.html"
+  },
+  {
+    "package": "Search criteria used by the Recorder package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/search-criteria-the-recorder-package.html"
+  },
+  {
+    "package": "Recorder actions supported in various SAP versions",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/actions-supported-in-sap-versions.html"
+  },
+  {
+    "package": "Recorder actions supported with SAP FIORI",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/recorder-actions-supported-with-sap-fiori.html"
+  },
+  {
+    "package": "REST Web Services package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-rest-web-service.html"
+  },
+  {
+    "package": "Salesforce package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/using-the-workbench/cloud-salesforce-package.html"
+  },
+  {
+    "package": "SAP package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-sap_action.html"
+  },
+  {
+    "package": "SAP BAPI package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/sap-bapi-package.html"
+  },
+  {
+    "package": "Screen package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-screen-command.html"
+  },
+  {
+    "package": "Using Capture area action from Screen package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-using-screen-capture-area.html"
+  },
+  {
+    "package": "Using Capture window action from Screen package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-using-screen-capture-window.html"
+  },
+  {
+    "package": "Service package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-services-package.html"
+  },
+  {
+    "package": "ServiceNow package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/using-the-workbench/cloud-servicenow-package.html"
+  },
+  {
+    "package": "SharePoint package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/using-the-workbench/cloud-sharepoint-package.html"
+  },
+  {
+    "package": "Simulate keystrokes package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-keystrokes-command.html"
+  },
+  {
+    "package": "SNMP package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-snmp-command.html"
+  },
+  {
+    "package": "SOAP Web Service package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-soap-web-service-command.html"
+  },
+  {
+    "package": "Step package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-step-command.html"
+  },
+  {
+    "package": "String package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-string-operation-command.html"
+  },
+  {
+    "package": "Using Extract text action of String package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-extract-text-action.html"
+  },
+  {
+    "package": "Using Find action of String package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-using-find-action.html"
+  },
+  {
+    "package": "System package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-system-command.html"
+  },
+  {
+    "package": "Task Bot package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-taskbot-command.html"
+  },
+  {
+    "package": "Terminal Emulator package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-terminal-emulator-command.html"
+  },
+  {
+    "package": "Text file package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/text-file-package.html"
+  },
+  {
+    "package": "Using Get text action of Text file package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/using-get-text-action.html"
+  },
+  {
+    "package": "Trigger loop package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-trigger-loop.html"
+  },
+  {
+    "package": "V11 Task Bot package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/v11-task-bot-package.html"
+  },
+  {
+    "package": "VBScript package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-vb-script.html"
+  },
+  {
+    "package": "Wait package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-wait-command.html"
+  },
+  {
+    "package": "Workday package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/using-the-workbench/cloud-workday-package.html"
+  },
+  {
+    "package": "Window package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-windows-action-command.html"
+  },
+  {
+    "package": "Workload package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-workload-command.html"
+  },
+  {
+    "package": "Example of using actions in workload package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/example-of-using-workload-package-actions.html"
+  },
+  {
+    "package": "XML package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-xml-command.html"
+  },
+  {
+    "package": "Example of using actions in XML package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/example-using-xml-package-actions.html"
+  },
+  {
+    "package": "Preload packages",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/using-the-workbench/preload-packages.html"
+  },
+  {
+    "package": "Packages available in Automation 360",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-viewing-packages.html"
+  },
+  {
+    "package": "Select the package version used in your bot",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/creating-an-automation-task/cloud-view-select-package-version.html"
+  },
+  {
+    "package": "Example of using the DLL package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/example-cloud-dll.html"
+  },
+  {
+    "package": "Example of using To string action from Datetime package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/example-to-string-action-datetime.html"
+  },
+  {
+    "package": "Example of using Find file/folder action from Google Drive package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/example-finding-files-folders-google-drive.html"
+  },
+  {
+    "package": "Example of using Create Folder action from Google Drive package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/example-google-drive-create-folder-action.html"
+  },
+  {
+    "package": "Example of using Go to Cell action from Google Sheets package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/example-use-go-to-cell-action-google-sheets.html"
+  },
+  {
+    "package": "Example of using Get structure command from SAP BAPI package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/example-use-sap-bapi-to-input-structure.html"
+  },
+  {
+    "package": "Example of writing data to SAP using SAP BAPI package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/example-use-sap-bapi-to-insert-data.html"
+  },
+  {
+    "package": "Example of using Run standard workflow from SAP BAPI package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/example-run-standard-workflow-sap-bapi.html"
+  },
+  {
+    "package": "Example of using the VBScript package in a resilient bot",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/example-cloud-vbscript.html"
+  },
+  {
+    "package": "Example of using multiple analyze actions in a task",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/using-the-workbench/example-multiple-analyze-actions.html"
+  },
+  {
+    "package": "Example of updating default package version across bots",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/using-update-bot-package-version.html"
+  },
+  {
+    "package": "Example of using JSON package actions in a bot",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/example-json-package.html"
+  },
+  {
+    "package": "Build automation using JSON actions",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/build-a-bot-using-json-actions.html"
+  },
+  {
+    "package": "Example using Email actions in a bot",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/example-email-package.html"
+  },
+  {
+    "package": "Example using user account actions from Active Directory package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/ad-user-account-operations-example.html"
+  },
+  {
+    "package": "Example of using Custom column option in Data Table package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/example-datatable-package.html"
+  },
+  {
+    "package": "Example of using Salesforce package and record variable",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/example-bot-salesforce-package-record-variable.html"
+  },
+  {
+    "package": "Actions performed on objects captured with AISense Recorder",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/using-the-workbench/action-performed-on-captured-object.html"
+  },
+  {
+    "package": "Submit bots or packages to Bot Store",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/working-with-bot-store/cloud-submit-bots-to-bot-store.html"
+  },
+  {
+    "package": "Directly import bots and packages from Bot Store to Control Room",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/working-with-bot-store/cloud-add-bots-to-private-repo.html"
+  },
+  {
+    "package": "Download locally and import bots and packages from Bot Store to Control Room",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/working-with-bot-store/cloud-non-internet-connected-bot-store.html"
+  },
+  {
+    "package": "Advanced bots and packages",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/advanced-bots/cloud-build-advanced-bots.html"
+  },
+  {
+    "package": "Package SDK",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-create-package-overview.html"
+  },
+  {
+    "package": "Standard coding practices and guidelines for developing packages",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-standard-coding-practices-guidelines.html"
+  },
+  {
+    "package": "Develop a sample package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-develop-your-package.html"
+  },
+  {
+    "package": "Using the package SDK",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-how-to-use-pack-sdk.html"
+  },
+  {
+    "package": "Upload custom package to your Control Room",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-upload-custom-pack-control-room-use-sdk.html"
+  },
+  {
+    "package": "Create a bot to test the new package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-create-bot-use-sdk.html"
+  },
+  {
+    "package": "Package SDK examples",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-how-to-examples.html"
+  },
+  {
+    "package": "Organize and group actions when developing packages",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-organize-actions-under-package.html"
+  },
+  {
+    "package": "Create custom variables using Package SDK",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-create-custom-variables-pack-sdk.html"
+  },
+  {
+    "package": "Create a condition using Package SDK",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-create-condition-package-sdk.html"
+  },
+  {
+    "package": "Add a condition in a custom package for If condition",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-add-condition-custom-package.html"
+  },
+  {
+    "package": "Create an iterator using Package SDK",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-create-iterator-package-sdk.html"
+  },
+  {
+    "package": "Add debug logs of custom packages to bot_launcher.log file",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-add-debug-log-custom-packages.html"
+  },
+  {
+    "package": "Handle sessions in a custom package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-handle-session-custom-package.html"
+  },
+  {
+    "package": "Configure shared session using Package SDK",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-use-shared-session-sdk.html"
+  },
+  {
+    "package": "Build bots to share session details using Package SDK",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-build-bots-shared-session-sdk.html"
+  },
+  {
+    "package": "Build and test a demo package and bot",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-build-test-demo-package.html"
+  },
+  {
+    "package": "Add your demo package to the Control Room",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-add-demo-package-control-room.html"
+  },
+  {
+    "package": "Create a demo bot with the demo package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-create-demo-bot-one.html"
+  },
+  {
+    "package": "Change the Java file used to create the package JAR file",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-change-package-jar.html"
+  },
+  {
+    "package": "Upload new demo package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-manage-package-in-bot.html"
+  },
+  {
+    "package": "Update the demo bot with the updated package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-create-run-demo-bot-two.html"
+  },
+  {
+    "package": "Build and test a custom package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-build-custom-package.html"
+  },
+  {
+    "package": "Build a custom package in IntelliJ",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-configure-jar-intelliJ.html"
+  },
+  {
+    "package": "Add custom package to your Control Room",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-add-custom-package-control-room.html"
+  },
+  {
+    "package": "Create a bot to test the custom package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/developer/cloud-create-bot-to-test-package.html"
+  },
+  {
+    "package": "Building reusable packages",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/developer-recommendations/cloud-build-reusable-package.html"
+  },
+  {
+    "package": "IQ Bot Pre-processor package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/preprocessing-package.html"
+  },
+  {
+    "package": "Document Classifier package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-doc-classifier-package.html"
+  },
+  {
+    "package": "Advanced Classifier package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-advanced-classifier.html"
+  },
+  {
+    "package": "Configuring bring your own key (BYOK) for Advanced Classifier package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/byok-configuration-advanced-classifier-package.html"
+  },
+  {
+    "package": "Document Extraction package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/da-extraction-package.html"
+  },
+  {
+    "package": "IQ Bot - DA Bridge package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/bridge-package.html"
+  },
+  {
+    "package": "Applicable scenarios to use the Bridge package",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/scenarios-where-to-use-bridge-package.html"
+  },
+  {
+    "package": "IQ Bot - DA Bridge package FAQ",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/bridge-package-faq.html"
+  },
+  {
+    "package": "Pre-installed Python packages",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/iq-bot/train/iqb-custom-logic-preinstalled-python-packages.html"
+  },
+  {
+    "package": "Additional Python packages",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/iq-bot/train/iqb-custom-logic-additonal-python-packages.html"
+  },
+  {
+    "package": "Package manager permissions",
+    "url": "https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/control-room/control-room-api/cloud-package-manager-permissions.html"
+  }
+]

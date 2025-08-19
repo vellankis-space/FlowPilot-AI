@@ -1,0 +1,52 @@
+
+[
+  {
+    "tool": "Power Automate",
+    "action": "Run PowerShell script",
+    "description": "Executes a PowerShell script.",
+    "parameters": [
+      {
+        "name": "PowerShell script",
+        "description": "The script to execute."
+      },
+      {
+        "name": "Script parameters",
+        "description": "Parameters to pass to the script."
+      }
+    ]
+  },
+  {
+    "tool": "UiPath",
+    "action": "Type Into",
+    "description": "Simulates typing into a UI element.",
+    "parameters": [
+      {
+        "name": "Target",
+        "description": "The UI element to type into."
+      },
+      {
+        "name": "Text",
+        "description": "The text to be typed."
+      }
+    ]
+  },
+  {
+    "tool": "Automation Anywhere",
+    "action": "Send Email",
+    "description": "Sends an email.",
+    "parameters": [
+      {
+        "name": "To",
+        "description": "The recipient's email address."
+      },
+      {
+        "name": "Subject",
+        "description": "The subject of the email."
+      },
+      {
+        "name": "Body",
+        "description": "The content of the email."
+      }
+    ]
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "action": "Active Directory",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/activedirectory"
+  },
+  {
+    "action": "Database",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/database"
+  },
+  {
+    "action": "IBM Cognitive",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/ibmcognitive"
+  },
+  {
+    "action": "SAP automation",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/sap"
+  },
+  {
+    "action": "AI Builder (Preview)",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/aibuilder"
+  },
+  {
+    "action": "Date time",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/datetime"
+  },
+  {
+    "action": "Logging",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/logging"
+  },
+  {
+    "action": "Scripting",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/scripting"
+  },
+  {
+    "action": "AWS",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/aws"
+  },
+  {
+    "action": "Email",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/email"
+  },
+  {
+    "action": "Loops",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/loops"
+  },
+  {
+    "action": "SharePoint",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/sharepoint"
+  },
+  {
+    "action": "Azure",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/azure"
+  },
+  {
+    "action": "Excel",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/excel"
+  },
+  {
+    "action": "Message boxes",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/display"
+  },
+  {
+    "action": "System",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/system"
+  },
+  {
+    "action": "Browser automation",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/webautomation"
+  },
+  {
+    "action": "Exchange Server",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/exchange"
+  },
+  {
+    "action": "Microsoft Cognitive",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/microsoftcognitive"
+  },
+  {
+    "action": "Terminal emulation",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/terminalemulation"
+  },
+  {
+    "action": "Clipboard",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/clipboard"
+  },
+  {
+    "action": "File",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/file"
+  },
+  {
+    "action": "Mouse and keyboard",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/mouseandkeyboard"
+  },
+  {
+    "action": "Text",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/text"
+  },
+  {
+    "action": "Cloud connectors",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/cloudconnectors"
+  },
+  {
+    "action": "Flow control",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/flowcontrol"
+  },
+  {
+    "action": "OCR",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/ocr"
+  },
+  {
+    "action": "UI automation",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/uiautomation"
+  },
+  {
+    "action": "CMD session",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/cmd"
+  },
+  {
+    "action": "Folder",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/folder"
+  },
+  {
+    "action": "Outlook",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/outlook"
+  },
+  {
+    "action": "Variables",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/variables"
+  },
+  {
+    "action": "Compression",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/compression"
+  },
+  {
+    "action": "FTP",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/ftp"
+  },
+  {
+    "action": "Power Automate secret variables",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/powerautomatesecretvariables"
+  },
+  {
+    "action": "Windows services",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/services"
+  },
+  {
+    "action": "Conditionals",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/conditionals"
+  },
+  {
+    "action": "Google Cognitive",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/googlecognitive"
+  },
+  {
+    "action": "PDF",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/pdf"
+  },
+  {
+    "action": "Workstation",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/workstation"
+  },
+  {
+    "action": "Custom actions",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/custommodule"
+  },
+  {
+    "action": "HTTP",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/web"
+  },
+  {
+    "action": "Run flow",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/runflow"
+  },
+  {
+    "action": "Workqueues",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/workqueues"
+  },
+  {
+    "action": "Cryptography",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/cryptography"
+  },
+  {
+    "action": "XML",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/xml"
+  },
+  {
+    "action": "CyberArk",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/cyberark"
+  },
+  {
+    "action": "Word",
+    "url": "https://learn.microsoft.com/en-us/power-automate/desktop-flows/actions-reference/word"
+  }
+]
