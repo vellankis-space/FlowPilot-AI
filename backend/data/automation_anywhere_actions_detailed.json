@@ -1,1 +1,1728 @@
-[]
+[
+  {
+    "package": "Pipeline Accelerator package",
+    "actions": [
+      {
+        "name": "End Session",
+        "description": "Closes a CoE Manager session with Shibumi server."
+      },
+      {
+        "name": "Get Metrics Data",
+        "description": "Retrieves the metric data for the specified metric."
+      },
+      {
+        "name": "Get opportunities",
+        "description": "Lists all the opportunities for the specified business unit from CoE Manager and saves the output to a variable."
+      },
+      {
+        "name": "Get opportunity details",
+        "description": "Retrieves all details for the specified opportunity from CoE Manager and saves the output to a variable."
+      },
+      {
+        "name": "Get question labels",
+        "description": "Retrieves all the objective questions for an enterprise in CoE Manager and saves the output to a variable."
+      },
+      {
+        "name": "Get workstreams",
+        "description": "Retrieves a list of business units for the specified enterprise on CoE Manager and saves the output to a variable."
+      },
+      {
+        "name": "New opportunity",
+        "description": "Creates an opportunity in the specified enterprise and business unit in CoE Manager."
+      },
+      {
+        "name": "New workstream",
+        "description": "Creates a new business unit in CoE Manager."
+      },
+      {
+        "name": "Start Pipeline Accelerator Session",
+        "description": "Creates a session to enable connection and interaction with Shibumi server."
+      },
+      {
+        "name": "Update instance attribute",
+        "description": "Updates the instance details in CoE Manager."
+      },
+      {
+        "name": "Update opportunity",
+        "description": "Updates the details of an opportunity based on the opportunity ID in CoE Manager."
+      },
+      {
+        "name": "Update process metrics",
+        "description": "Updates the existing process metrics in CoE Manager based on the Control Room metrics."
+      }
+    ]
+  },
+  {
+    "package": "App Integration package",
+    "actions": [
+      {
+        "name": "Capture area",
+        "description": "See Capture area action."
+      },
+      {
+        "name": "Capture scrollable text",
+        "description": "See Capture scrollable text action."
+      },
+      {
+        "name": "Capture text of window",
+        "description": "See Capture text of window action."
+      }
+    ]
+  },
+  {
+    "package": "Apple Keynote package",
+    "actions": [
+      {
+        "name": "Add text to slide",
+        "description": "Add text to slide action"
+      },
+      {
+        "name": "Add slide",
+        "description": "Add slide action"
+      },
+      {
+        "name": "Create table",
+        "description": "Create table action"
+      },
+      {
+        "name": "Close",
+        "description": "Close action in the Apple Keynote package"
+      },
+      {
+        "name": "Delete slide",
+        "description": "Delete slide action"
+      },
+      {
+        "name": "Delete table",
+        "description": "Delete table action"
+      },
+      {
+        "name": "Edit slide text content",
+        "description": "Edit slide text content action"
+      },
+      {
+        "name": "Edit table",
+        "description": "Edit table action"
+      },
+      {
+        "name": "Get all table names",
+        "description": "Get all table names action"
+      },
+      {
+        "name": "Get cell value",
+        "description": "Get cell value action"
+      },
+      {
+        "name": "Get column name",
+        "description": "Get column name action in Apple Keynote package"
+      },
+      {
+        "name": "Get row number",
+        "description": "Get row number action in Apple Keynote package"
+      },
+      {
+        "name": "Get slide content",
+        "description": "Get slide content action"
+      },
+      {
+        "name": "Go to cell",
+        "description": "Go to cell action in Apple Keynote package"
+      },
+      {
+        "name": "Open",
+        "description": "Open action in the Apple Keynote package"
+      },
+      {
+        "name": "Rename table",
+        "description": "Rename table action"
+      },
+      {
+        "name": "Save presentation",
+        "description": "Save presentation action"
+      },
+      {
+        "name": "Set cell",
+        "description": "Set cell action in Apple Keynote package"
+      },
+      {
+        "name": "Switch to slide",
+        "description": "Switch to slide action"
+      },
+      {
+        "name": "Write from data table",
+        "description": "Write from data table action in Apple Keynote package"
+      }
+    ]
+  },
+  {
+    "package": "Apple Mail package",
+    "actions": [
+      {
+        "name": "Change status",
+        "description": "Change status action in the Apple Mail package"
+      },
+      {
+        "name": "Check if folder exists",
+        "description": "Check if folder exists action in the Apple Mail package"
+      },
+      {
+        "name": "Connect and Disconnect",
+        "description": "Connect and Disconnect actions in the Apple Mail package"
+      },
+      {
+        "name": "Delete and Delete all",
+        "description": "Delete and Delete all actions in the Apple Mail package"
+      },
+      {
+        "name": "Forward",
+        "description": "Forward action in the Apple Mail package"
+      },
+      {
+        "name": "Move and Move all",
+        "description": "Move and Move All actions in the Apple Mail package"
+      },
+      {
+        "name": "Reply and Reply all",
+        "description": "Reply and Reply All actions in the Apple Mail package"
+      },
+      {
+        "name": "Save attachments and Save all attachments",
+        "description": "Save attachments and Save all attachments action in the Apple Mail package"
+      },
+      {
+        "name": "Save email",
+        "description": "Save email action in the Apple Mail package"
+      },
+      {
+        "name": "Send",
+        "description": "Send action in the Apple Mail package"
+      }
+    ]
+  },
+  {
+    "package": "Apple Numbers package",
+    "actions": [
+      {
+        "name": "Cell operations",
+        "description": "See Cell operations in Apple Numbers."
+      },
+      {
+        "name": "Sheet operations",
+        "description": "See Sheet operations in Apple Numbers."
+      },
+      {
+        "name": "Spreadsheet operations",
+        "description": "See Spreadsheet operations in Apple Numbers."
+      },
+      {
+        "name": "Table operations",
+        "description": "See Table operations in Apple Numbers."
+      }
+    ]
+  },
+  {
+    "package": "Bot migration package",
+    "actions": [
+      {
+        "name": "Migrate legacy bot",
+        "description": "See Migrate legacy bot action."
+      },
+      {
+        "name": "Update bot",
+        "description": "See Update bot action."
+      }
+    ]
+  },
+  {
+    "package": "Credential package",
+    "actions": [
+      {
+        "name": "Assign",
+        "description": "Sets the value of a credential variable. You can select Credential to use a value from the Credential Vault, Variable to use a credential variable, or Insecure string to manually enter a variable. In the Save the outcome to a variable field, select a variable to hold the returned value."
+      }
+    ]
+  },
+  {
+    "package": "Get multiple cells action",
+    "actions": [
+      {
+        "name": "All rows:",
+        "description": "Enables you to retrieve the values from all the rows."
+      },
+      {
+        "name": "Specific row:",
+        "description": "Enables you to retrieve the values from the row you have specified in the From row and to row fields."
+      },
+      {
+        "name": "Cell range:",
+        "description": "Enables you to retrieve the values from the range of cells you have specified in the From cell and to cell field."
+      }
+    ]
+  },
+  {
+    "package": "Google Document AI package",
+    "actions": [
+      {
+        "name": "Connect",
+        "description": "Establishes a connection with the Google Cloud service account.Provide the following: Key file path: Select the JSON file that contains your Google Cloud service account key. Google Cloud service session: Enter a unique name for the session."
+      },
+      {
+        "name": "Extract",
+        "description": "Sends documents to Google Document AI for data extraction. Using the Extract action for Google Document AI"
+      },
+      {
+        "name": "Disconnect",
+        "description": "Disconnects from the Google service account.In the Session name field, enter the name of the session that you used to connect to the Google service account in the Connect action."
+      }
+    ]
+  },
+  {
+    "package": "JSON package",
+    "actions": [
+      {
+        "name": "Add node value",
+        "description": "See Add node value."
+      },
+      {
+        "name": "Convert Dictionary to JSON",
+        "description": "See Convert Dictionary to JSON."
+      },
+      {
+        "name": "End session",
+        "description": "See End session action in JSON."
+      },
+      {
+        "name": "Get node list",
+        "description": "See Get node list action in JSON."
+      },
+      {
+        "name": "Get node value",
+        "description": "See Get node value action in JSON."
+      },
+      {
+        "name": "Convert JSON to Dictionary",
+        "description": "See Convert JSON to Dictionary."
+      },
+      {
+        "name": "Start session",
+        "description": "See Start session action in JSON."
+      },
+      {
+        "name": "Update node value",
+        "description": "See Update node value."
+      }
+    ]
+  },
+  {
+    "package": "Number package",
+    "actions": [
+      {
+        "name": "Assign",
+        "description": "See Assign action in Number"
+      },
+      {
+        "name": "Decrement",
+        "description": "See Decrement action in Number"
+      },
+      {
+        "name": "Increment",
+        "description": "See Increment action in Number"
+      },
+      {
+        "name": "Random",
+        "description": "See Random action in Number"
+      },
+      {
+        "name": "To string",
+        "description": "See To string action in Number"
+      }
+    ]
+  },
+  {
+    "package": "Microsoft 365 Calendar package",
+    "actions": [
+      {
+        "name": "Add attachment",
+        "description": "See Add attachment action in Microsoft 365 Calendar"
+      },
+      {
+        "name": "Add attendees",
+        "description": "See Add attendees action in Microsoft 365 Calendar"
+      },
+      {
+        "name": "Cancel meeting",
+        "description": "See Cancel meeting action in Microsoft 365 Calendar"
+      },
+      {
+        "name": "Connect",
+        "description": "Establishes a connection with the Microsoft 365 server using your organization's client ID and tenant ID, and user credentials. See Using Connect action in Microsoft 365 Calendar package."
+      },
+      {
+        "name": "Create meeting",
+        "description": "See Using the Create Meeting action."
+      },
+      {
+        "name": "Delete attendees",
+        "description": "See Delete attendees action in Microsoft 365 Calendar"
+      },
+      {
+        "name": "Delete meeting information",
+        "description": "See Delete meeting information action in Microsoft 365 Calendar"
+      },
+      {
+        "name": "Disconnect",
+        "description": "Terminates the connection with the Microsoft 365 server. Enter the session name that you used in the Connect action. Insert this action at the end of automation sequences that use actions from this Microsoft 365 package. See Using Disconnect action in Microsoft 365 Calendar package."
+      },
+      {
+        "name": "Get available meeting slot(s)",
+        "description": "See Using the Get available meeting slots action."
+      },
+      {
+        "name": "Modify meeting",
+        "description": "See Modify meeting action in Microsoft 365 Calendar"
+      },
+      {
+        "name": "Respond to meeting",
+        "description": "See Respond to meeting action in Microsoft 365 Calendar"
+      }
+    ]
+  },
+  {
+    "package": "Microsoft 365 Excel package",
+    "actions": [
+      {
+        "name": "Connect",
+        "description": "Establishes a connection with the Microsoft 365 server using your organization's client ID and tenant ID, and user credentials.See Using Connect action in Microsoft 365 Excel package."
+      },
+      {
+        "name": "Cell",
+        "description": "Perform operations related to cell and range operations, such as append, delete, format, get properties, and insert. See Cell operations in Microsoft 365 Excel"
+      },
+      {
+        "name": "Row and column",
+        "description": "Perform operations related to column and row operations such as autofit, delete, and read. See Column/Row operations in Microsoft 365 Excel."
+      },
+      {
+        "name": "Table",
+        "description": "Perform operations related to the table operations such as create, delete, filter, get properties, rename, and sort. See Table operations in Microsoft 365 Excel."
+      },
+      {
+        "name": "Workbook",
+        "description": "Automate opening, closing, and creating a workbook. See Workbook operations in Microsoft 365 Excel."
+      },
+      {
+        "name": "Worksheet",
+        "description": "Perform operations related to worksheet operations, such as activate, delete, find, get worksheet names, hide, retrieve worksheet count, and show. See Worksheet operations in Microsoft 365 Excel."
+      }
+    ]
+  },
+  {
+    "package": "Cell operations in Microsoft 365 Excel",
+    "actions": [
+      {
+        "name": "Delete cell",
+        "description": "See Delete cell action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Delete range",
+        "description": "See Delete range action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Format cell",
+        "description": "See Using the Format cell action."
+      },
+      {
+        "name": "Get cell",
+        "description": "See Get cell action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Get cell/text color",
+        "description": "See Using the Get cell/text color action."
+      },
+      {
+        "name": "Get multiple cells",
+        "description": "See Get multiple cells action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Get cell address",
+        "description": "See Get cell address action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Go to cell",
+        "description": "See Go to cell action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Got to next empty cell",
+        "description": "See Go to next empty cell action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Insert cell",
+        "description": "See Insert cell action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Insert range",
+        "description": "See Insert range action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Paste cell",
+        "description": "See Paste cell action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Read cell format",
+        "description": "See Read cell format action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Read cell formula",
+        "description": "See Read cell formula action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Set cell",
+        "description": "See Set cell action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Set cell color",
+        "description": "See Set cell color action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Set cell formula",
+        "description": "See Set cell formula action in Microsoft 365 Excel."
+      }
+    ]
+  },
+  {
+    "package": "Column/Row operations in Microsoft 365 Excel",
+    "actions": [
+      {
+        "name": "Autofit columns",
+        "description": "See Autofit columns action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Autofit rows",
+        "description": "See Autofit rows action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Delete row/column",
+        "description": "See Using Delete row or column action."
+      },
+      {
+        "name": "Get row count",
+        "description": "See Get row count action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Get column name",
+        "description": "See Get column name action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Get row number",
+        "description": "Get row number action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Insert row/column",
+        "description": "See Using Insert row or column action."
+      },
+      {
+        "name": "Read column",
+        "description": "See Read column action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Read row",
+        "description": "See Read row action in Microsoft 365 Excel."
+      }
+    ]
+  },
+  {
+    "package": "Table operations in Microsoft 365 Excel",
+    "actions": [
+      {
+        "name": "Create table",
+        "description": "See Create table action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Delete table",
+        "description": "See Delete table action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Get table column",
+        "description": "See Get table column action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Get table names",
+        "description": "See Get table names action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Get table row",
+        "description": "See Get table row action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Get table row count",
+        "description": "See Get table row count action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Rename table",
+        "description": "See Rename table action in Microsoft 365 Excel."
+      }
+    ]
+  },
+  {
+    "package": "Workbook operations in Microsoft 365 Excel",
+    "actions": [
+      {
+        "name": "Close",
+        "description": "See Close action."
+      },
+      {
+        "name": "Create workbook",
+        "description": "See Create workbook action."
+      },
+      {
+        "name": "Open",
+        "description": "See Using the Open action."
+      },
+      {
+        "name": "Find",
+        "description": "Using the Find action in Microsoft 365 Excel"
+      }
+    ]
+  },
+  {
+    "package": "Worksheet operations in Microsoft 365 Excel",
+    "actions": [
+      {
+        "name": "Copy worksheet",
+        "description": "See Using the Copy worksheet action."
+      },
+      {
+        "name": "Create sheet",
+        "description": "See Create sheet action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Delete worksheet",
+        "description": "See Delete worksheet action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Get current worksheet name",
+        "description": "See Get current worksheet name action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Get worksheet names",
+        "description": "See Get worksheet names action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Hide worksheet",
+        "description": "See Hide worksheet action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Rename worksheet",
+        "description": "See Rename worksheet action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Retrieve sheet count",
+        "description": "See Retrieve sheet count action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Show worksheet",
+        "description": "See Show worksheet action in Microsoft 365 Excel."
+      },
+      {
+        "name": "Switch to sheet",
+        "description": "See Switch to sheet action in Microsoft 365 Excel."
+      }
+    ]
+  },
+  {
+    "package": "Microsoft 365 OneDrive package",
+    "actions": [
+      {
+        "name": "Check permission",
+        "description": "See Check permission action."
+      },
+      {
+        "name": "Connect",
+        "description": "Establishes a connection with the Microsoft 365 server using your organization's client ID and tenant ID, and user credentials.See Using Connect action in Microsoft 365 OneDrive package"
+      },
+      {
+        "name": "Copy file or folder",
+        "description": "See Copy file or folder action."
+      },
+      {
+        "name": "Create folder",
+        "description": "See Create folder action."
+      },
+      {
+        "name": "Delete file or folder",
+        "description": "See .Delete file or folder action"
+      },
+      {
+        "name": "Disconnect",
+        "description": "See Using Disconnect action in Microsoft 365 Calendar package."
+      },
+      {
+        "name": "Download file",
+        "description": "See Download file action."
+      },
+      {
+        "name": "Export as PDF",
+        "description": "See Export to PDF action."
+      },
+      {
+        "name": "Find files and folders",
+        "description": "See Find files and folders action."
+      },
+      {
+        "name": "Get file or folder information",
+        "description": "See Get file or folder information action."
+      },
+      {
+        "name": "Move file or folder",
+        "description": "See Move file or folder action."
+      },
+      {
+        "name": "Rename file or folder",
+        "description": "See Rename file or folder action."
+      },
+      {
+        "name": "Restore last version",
+        "description": "See Restore last version action."
+      },
+      {
+        "name": "Upload file",
+        "description": "See Upload file action."
+      }
+    ]
+  },
+  {
+    "package": "Microsoft 365 Outlook package",
+    "actions": [
+      {
+        "name": "Change status",
+        "description": "See Change status action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Check if folder exists",
+        "description": "See Check if folder exists action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Connect",
+        "description": "See Using Connect action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Delete",
+        "description": "See Delete action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Delete all",
+        "description": "See Delete all action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Disconnect",
+        "description": "See Disconnect action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Forward",
+        "description": "See Forward action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Move",
+        "description": "See Move action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Move all",
+        "description": "See Move all action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Reply",
+        "description": "See Reply action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Reply all",
+        "description": "See Reply all action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Save all attachments",
+        "description": "See Save all attachments action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Save attachments",
+        "description": "See Save attachments action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Save email",
+        "description": "See Save email action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Send",
+        "description": "See Send action in Microsoft 365 Outlook package."
+      }
+    ]
+  },
+  {
+    "package": "Microsoft Outlook (macOS) package",
+    "actions": [
+      {
+        "name": "Change status",
+        "description": "Change status action in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Check if folder exists",
+        "description": "Check if folder exists action in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Connect, Disconnect",
+        "description": "Using Connect and Disconnect actions in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Delete, Delete all",
+        "description": "Delete and Delete all actions in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Forward",
+        "description": "Forward action in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Move, Move all",
+        "description": "Move and Move all actions in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Reply, Reply All",
+        "description": "Reply and Reply All actions in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Save attachments, Save all attachments",
+        "description": "Save attachments and Save all attachments actions in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Save email",
+        "description": "Save email action in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Send",
+        "description": "Send action in Microsoft Outlook (macOS) package"
+      }
+    ]
+  },
+  {
+    "package": "Play Sound package",
+    "actions": [
+      {
+        "name": "Play beep",
+        "description": "See Play beep action."
+      },
+      {
+        "name": "Play media file",
+        "description": "See Play media file action."
+      }
+    ]
+  },
+  {
+    "package": "Process Composer package",
+    "actions": [
+      {
+        "name": "Assign Human Task",
+        "description": "See Assign Human Task action."
+      },
+      {
+        "name": "Cancel Human Task",
+        "description": "See Cancel Human Task action."
+      },
+      {
+        "name": "Create a Request",
+        "description": "See Create a Request action."
+      },
+      {
+        "name": "Get Storage file",
+        "description": "See Get Storage file action."
+      },
+      {
+        "name": "Query Requests",
+        "description": "See Query Requests action."
+      },
+      {
+        "name": "Query Human Tasks",
+        "description": "See Query Human Tasks action."
+      },
+      {
+        "name": "Team Members",
+        "description": "See Team Members action."
+      },
+      {
+        "name": "Upload Storage file",
+        "description": "See Upload Storage file action."
+      }
+    ]
+  },
+  {
+    "package": "SAP BAPI package",
+    "actions": [
+      {
+        "name": "Connect",
+        "description": "Using Connect action for SAP BAPI."
+      },
+      {
+        "name": "Create function",
+        "description": "Create function action."
+      },
+      {
+        "name": "Get field value",
+        "description": "Get field value action."
+      },
+      {
+        "name": "Get structure",
+        "description": "Get structure action."
+      },
+      {
+        "name": "Get table",
+        "description": "Get table action."
+      },
+      {
+        "name": "Run function",
+        "description": "Run function action."
+      },
+      {
+        "name": "Set field value",
+        "description": "Set field value action."
+      },
+      {
+        "name": "Run standard workflow",
+        "description": "Run standard workflow action."
+      },
+      {
+        "name": "Run custom workflow",
+        "description": "Run custom workflow action."
+      }
+    ]
+  },
+  {
+    "package": "Service package",
+    "actions": [
+      {
+        "name": "Get service status",
+        "description": "See Get service status action in Services"
+      },
+      {
+        "name": "Pause service",
+        "description": "See Pause service action in Services"
+      },
+      {
+        "name": "Resume service",
+        "description": "See Resume service action in Services"
+      },
+      {
+        "name": "Start service",
+        "description": "See Start service action in Services"
+      },
+      {
+        "name": "Stop service",
+        "description": "See Stop service action in Services ."
+      }
+    ]
+  },
+  {
+    "package": "SharePoint package",
+    "actions": [
+      {
+        "name": "Configuring SharePoint domain and sites",
+        "description": "The SharePoint package connects to a particular SharePoint domain using app-based permissions. You must configure your SharePoint domain and add relevant app permissions."
+      },
+      {
+        "name": "SharePoint authenticate action",
+        "description": "Use the Authenticate action to connect to your SharePoint domain. After the authentication is successful, you can use the other command actions to perform various operations in SharePoint."
+      },
+      {
+        "name": "SharePoint folder and file",
+        "description": "Use the Folder and file actions to perform various operations in your SharePoint site. You can create, get details, delete, or rename folders in a specific SharePoint site. You can also upload, delete, download, and get files in a specified folder.SharePoint package supports FileStream as a variable. Use the Assign file action to open a FileStream for a SharePoint file, and assign it to a variable. You can then use this FileStream as a variable for the Upload file, the Upload list image, and the Upload list attachment actions."
+      },
+      {
+        "name": "SharePoint list and list items",
+        "description": "Use the List and list item actions to perform various operations in your SharePoint site. You can create, get, delete, or update list and list items in a specific SharePoint site."
+      }
+    ]
+  },
+  {
+    "package": "Text file package",
+    "actions": [
+      {
+        "name": "Get text",
+        "description": "See Using Get text action of Text file package"
+      },
+      {
+        "name": "Read variables",
+        "description": "See Read variables action"
+      }
+    ]
+  },
+  {
+    "package": "V11 Task Bot package",
+    "actions": [
+      {
+        "name": "Run",
+        "description": "See Using Run action."
+      }
+    ]
+  },
+  {
+    "package": "IQ Bot Pre-processor package",
+    "actions": [
+      {
+        "name": "Concatenate Images",
+        "description": "See Using Concatenate Images action"
+      },
+      {
+        "name": "Convert Image To PDF",
+        "description": "See Using Convert Image To PDF action"
+      },
+      {
+        "name": "Edit Image",
+        "description": "See Using Edit Image action"
+      },
+      {
+        "name": "Enhance Image",
+        "description": "See Using Enhance Image action"
+      },
+      {
+        "name": "Orient Image",
+        "description": "See Using Orient Image action"
+      }
+    ]
+  },
+  {
+    "package": "Document Classifier package",
+    "actions": [
+      {
+        "name": "Classify",
+        "description": "IQ Bot Classify action groups the pages of an input document based on the model file that was created using IQ Bot Train Classifier action. See Using Classify action"
+      },
+      {
+        "name": "Classify documents",
+        "description": "The IQ Bot Classify document action groups the input documents based on the first page of each document, using the selected model file that is created with the IQ Bot Train Classifier action. Use this action if you are manually creating document groups. See Using the Classify document action"
+      },
+      {
+        "name": "Train Classifier",
+        "description": "See Using Train Classifier action"
+      }
+    ]
+  },
+  {
+    "package": "Document Extraction package",
+    "actions": [
+      {
+        "name": "Download data",
+        "description": "See Download data action"
+      },
+      {
+        "name": "Extract data",
+        "description": "See Extract data action"
+      },
+      {
+        "name": "Get document data",
+        "description": "See Get document data action"
+      },
+      {
+        "name": "Update document data",
+        "description": "See Update document data action"
+      }
+    ]
+  },
+  {
+    "package": "IQ Bot - DA Bridge package",
+    "actions": [
+      {
+        "name": "Export IQ Bot learning instance",
+        "description": "See Export IQ Bot learning instance."
+      },
+      {
+        "name": "Import IQ Bot learning instance into Document Automation",
+        "description": "See Import IQ Bot learning instance into Document Automation."
+      }
+    ]
+  },
+  {
+    "package": "Package manager permissions",
+    "actions": [
+      {
+        "name": "view",
+        "description": "packagemanager"
+      },
+      {
+        "name": "manage",
+        "description": "packagemanager"
+      }
+    ]
+  },
+  {
+    "package": "App Integration package",
+    "actions": [
+      {
+        "name": "Capture area",
+        "description": "See Capture area action."
+      },
+      {
+        "name": "Capture scrollable text",
+        "description": "See Capture scrollable text action."
+      },
+      {
+        "name": "Capture text of window",
+        "description": "See Capture text of window action."
+      }
+    ]
+  },
+  {
+    "package": "Apple Keynote package",
+    "actions": [
+      {
+        "name": "Add text to slide",
+        "description": "Add text to slide action"
+      },
+      {
+        "name": "Add slide",
+        "description": "Add slide action"
+      },
+      {
+        "name": "Create table",
+        "description": "Create table action"
+      },
+      {
+        "name": "Close",
+        "description": "Close action in the Apple Keynote package"
+      },
+      {
+        "name": "Delete slide",
+        "description": "Delete slide action"
+      },
+      {
+        "name": "Delete table",
+        "description": "Delete table action"
+      },
+      {
+        "name": "Edit slide text content",
+        "description": "Edit slide text content action"
+      },
+      {
+        "name": "Edit table",
+        "description": "Edit table action"
+      },
+      {
+        "name": "Get all table names",
+        "description": "Get all table names action"
+      },
+      {
+        "name": "Get cell value",
+        "description": "Get cell value action"
+      },
+      {
+        "name": "Get column name",
+        "description": "Get column name action in Apple Keynote package"
+      },
+      {
+        "name": "Get row number",
+        "description": "Get row number action in Apple Keynote package"
+      },
+      {
+        "name": "Get slide content",
+        "description": "Get slide content action"
+      },
+      {
+        "name": "Go to cell",
+        "description": "Go to cell action in Apple Keynote package"
+      },
+      {
+        "name": "Open",
+        "description": "Open action in the Apple Keynote package"
+      },
+      {
+        "name": "Rename table",
+        "description": "Rename table action"
+      },
+      {
+        "name": "Save presentation",
+        "description": "Save presentation action"
+      },
+      {
+        "name": "Set cell",
+        "description": "Set cell action in Apple Keynote package"
+      },
+      {
+        "name": "Switch to slide",
+        "description": "Switch to slide action"
+      },
+      {
+        "name": "Write from data table",
+        "description": "Write from data table action in Apple Keynote package"
+      }
+    ]
+  },
+  {
+    "package": "Apple Mail package",
+    "actions": [
+      {
+        "name": "Change status",
+        "description": "Change status action in the Apple Mail package"
+      },
+      {
+        "name": "Check if folder exists",
+        "description": "Check if folder exists action in the Apple Mail package"
+      },
+      {
+        "name": "Connect and Disconnect",
+        "description": "Connect and Disconnect actions in the Apple Mail package"
+      },
+      {
+        "name": "Delete and Delete all",
+        "description": "Delete and Delete all actions in the Apple Mail package"
+      },
+      {
+        "name": "Forward",
+        "description": "Forward action in the Apple Mail package"
+      },
+      {
+        "name": "Move and Move all",
+        "description": "Move and Move All actions in the Apple Mail package"
+      },
+      {
+        "name": "Reply and Reply all",
+        "description": "Reply and Reply All actions in the Apple Mail package"
+      },
+      {
+        "name": "Save attachments and Save all attachments",
+        "description": "Save attachments and Save all attachments action in the Apple Mail package"
+      },
+      {
+        "name": "Save email",
+        "description": "Save email action in the Apple Mail package"
+      },
+      {
+        "name": "Send",
+        "description": "Send action in the Apple Mail package"
+      }
+    ]
+  },
+  {
+    "package": "Apple Numbers package",
+    "actions": [
+      {
+        "name": "Cell operations",
+        "description": "See Cell operations in Apple Numbers."
+      },
+      {
+        "name": "Sheet operations",
+        "description": "See Sheet operations in Apple Numbers."
+      },
+      {
+        "name": "Spreadsheet operations",
+        "description": "See Spreadsheet operations in Apple Numbers."
+      },
+      {
+        "name": "Table operations",
+        "description": "See Table operations in Apple Numbers."
+      }
+    ]
+  },
+  {
+    "package": "Bot migration package",
+    "actions": [
+      {
+        "name": "Migrate legacy bot",
+        "description": "See Migrate legacy bot action."
+      },
+      {
+        "name": "Update bot",
+        "description": "See Update bot action."
+      }
+    ]
+  },
+  {
+    "package": "Credential package",
+    "actions": [
+      {
+        "name": "Assign",
+        "description": "Sets the value of a credential variable. You can select Credential to use a value from the Credential Vault, Variable to use a credential variable, or Insecure string to manually enter a variable. In the Save the outcome to a variable field, select a variable to hold the returned value."
+      }
+    ]
+  },
+  {
+    "package": "Google Document AI package",
+    "actions": [
+      {
+        "name": "Connect",
+        "description": "Establishes a connection with the Google Cloud service account.Provide the following: Key file path: Select the JSON file that contains your Google Cloud service account key. Google Cloud service session: Enter a unique name for the session."
+      },
+      {
+        "name": "Extract",
+        "description": "Sends documents to Google Document AI for data extraction. Using the Extract action for Google Document AI"
+      },
+      {
+        "name": "Disconnect",
+        "description": "Disconnects from the Google service account.In the Session name field, enter the name of the session that you used to connect to the Google service account in the Connect action."
+      }
+    ]
+  },
+  {
+    "package": "JSON package",
+    "actions": [
+      {
+        "name": "Add node value",
+        "description": "See Add node value."
+      },
+      {
+        "name": "Convert Dictionary to JSON",
+        "description": "See Convert Dictionary to JSON."
+      },
+      {
+        "name": "End session",
+        "description": "See End session action in JSON."
+      },
+      {
+        "name": "Get node list",
+        "description": "See Get node list action in JSON."
+      },
+      {
+        "name": "Get node value",
+        "description": "See Get node value action in JSON."
+      },
+      {
+        "name": "Convert JSON to Dictionary",
+        "description": "See Convert JSON to Dictionary."
+      },
+      {
+        "name": "Start session",
+        "description": "See Start session action in JSON."
+      },
+      {
+        "name": "Update node value",
+        "description": "See Update node value."
+      }
+    ]
+  },
+  {
+    "package": "Number package",
+    "actions": [
+      {
+        "name": "Assign",
+        "description": "See Assign action in Number"
+      },
+      {
+        "name": "Decrement",
+        "description": "See Decrement action in Number"
+      },
+      {
+        "name": "Increment",
+        "description": "See Increment action in Number"
+      },
+      {
+        "name": "Random",
+        "description": "See Random action in Number"
+      },
+      {
+        "name": "To string",
+        "description": "See To string action in Number"
+      }
+    ]
+  },
+  {
+    "package": "Microsoft 365 Calendar package",
+    "actions": [
+      {
+        "name": "Add attachment",
+        "description": "See Add attachment action in Microsoft 365 Calendar"
+      },
+      {
+        "name": "Add attendees",
+        "description": "See Add attendees action in Microsoft 365 Calendar"
+      },
+      {
+        "name": "Cancel meeting",
+        "description": "See Cancel meeting action in Microsoft 365 Calendar"
+      },
+      {
+        "name": "Connect",
+        "description": "Establishes a connection with the Microsoft 365 server using your organization's client ID and tenant ID, and user credentials. See Using Connect action in Microsoft 365 Calendar package."
+      },
+      {
+        "name": "Create meeting",
+        "description": "See Using the Create Meeting action."
+      },
+      {
+        "name": "Delete attendees",
+        "description": "See Delete attendees action in Microsoft 365 Calendar"
+      },
+      {
+        "name": "Delete meeting information",
+        "description": "See Delete meeting information action in Microsoft 365 Calendar"
+      },
+      {
+        "name": "Disconnect",
+        "description": "Terminates the connection with the Microsoft 365 server. Enter the session name that you used in the Connect action. Insert this action at the end of automation sequences that use actions from this Microsoft 365 package. See Using Disconnect action in Microsoft 365 Calendar package."
+      },
+      {
+        "name": "Get available meeting slot(s)",
+        "description": "See Using the Get available meeting slots action."
+      },
+      {
+        "name": "Modify meeting",
+        "description": "See Modify meeting action in Microsoft 365 Calendar"
+      },
+      {
+        "name": "Respond to meeting",
+        "description": "See Respond to meeting action in Microsoft 365 Calendar"
+      }
+    ]
+  },
+  {
+    "package": "Microsoft 365 Excel package",
+    "actions": [
+      {
+        "name": "Connect",
+        "description": "Establishes a connection with the Microsoft 365 server using your organization's client ID and tenant ID, and user credentials.See Using Connect action in Microsoft 365 Excel package."
+      },
+      {
+        "name": "Cell",
+        "description": "Perform operations related to cell and range operations, such as append, delete, format, get properties, and insert. See Cell operations in Microsoft 365 Excel"
+      },
+      {
+        "name": "Row and column",
+        "description": "Perform operations related to column and row operations such as autofit, delete, and read. See Column/Row operations in Microsoft 365 Excel."
+      },
+      {
+        "name": "Table",
+        "description": "Perform operations related to the table operations such as create, delete, filter, get properties, rename, and sort. See Table operations in Microsoft 365 Excel."
+      },
+      {
+        "name": "Workbook",
+        "description": "Automate opening, closing, and creating a workbook. See Workbook operations in Microsoft 365 Excel."
+      },
+      {
+        "name": "Worksheet",
+        "description": "Perform operations related to worksheet operations, such as activate, delete, find, get worksheet names, hide, retrieve worksheet count, and show. See Worksheet operations in Microsoft 365 Excel."
+      }
+    ]
+  },
+  {
+    "package": "Microsoft 365 OneDrive package",
+    "actions": [
+      {
+        "name": "Check permission",
+        "description": "See Check permission action."
+      },
+      {
+        "name": "Connect",
+        "description": "Establishes a connection with the Microsoft 365 server using your organization's client ID and tenant ID, and user credentials.See Using Connect action in Microsoft 365 OneDrive package"
+      },
+      {
+        "name": "Copy file or folder",
+        "description": "See Copy file or folder action."
+      },
+      {
+        "name": "Create folder",
+        "description": "See Create folder action."
+      },
+      {
+        "name": "Delete file or folder",
+        "description": "See .Delete file or folder action"
+      },
+      {
+        "name": "Disconnect",
+        "description": "See Using Disconnect action in Microsoft 365 Calendar package."
+      },
+      {
+        "name": "Download file",
+        "description": "See Download file action."
+      },
+      {
+        "name": "Export as PDF",
+        "description": "See Export to PDF action."
+      },
+      {
+        "name": "Find files and folders",
+        "description": "See Find files and folders action."
+      },
+      {
+        "name": "Get file or folder information",
+        "description": "See Get file or folder information action."
+      },
+      {
+        "name": "Move file or folder",
+        "description": "See Move file or folder action."
+      },
+      {
+        "name": "Rename file or folder",
+        "description": "See Rename file or folder action."
+      },
+      {
+        "name": "Restore last version",
+        "description": "See Restore last version action."
+      },
+      {
+        "name": "Upload file",
+        "description": "See Upload file action."
+      }
+    ]
+  },
+  {
+    "package": "Microsoft 365 Outlook package",
+    "actions": [
+      {
+        "name": "Change status",
+        "description": "See Change status action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Check if folder exists",
+        "description": "See Check if folder exists action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Connect",
+        "description": "See Using Connect action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Delete",
+        "description": "See Delete action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Delete all",
+        "description": "See Delete all action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Disconnect",
+        "description": "See Disconnect action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Forward",
+        "description": "See Forward action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Move",
+        "description": "See Move action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Move all",
+        "description": "See Move all action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Reply",
+        "description": "See Reply action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Reply all",
+        "description": "See Reply all action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Save all attachments",
+        "description": "See Save all attachments action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Save attachments",
+        "description": "See Save attachments action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Save email",
+        "description": "See Save email action in Microsoft 365 Outlook package."
+      },
+      {
+        "name": "Send",
+        "description": "See Send action in Microsoft 365 Outlook package."
+      }
+    ]
+  },
+  {
+    "package": "Microsoft Outlook (macOS) package",
+    "actions": [
+      {
+        "name": "Change status",
+        "description": "Change status action in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Check if folder exists",
+        "description": "Check if folder exists action in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Connect, Disconnect",
+        "description": "Using Connect and Disconnect actions in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Delete, Delete all",
+        "description": "Delete and Delete all actions in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Forward",
+        "description": "Forward action in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Move, Move all",
+        "description": "Move and Move all actions in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Reply, Reply All",
+        "description": "Reply and Reply All actions in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Save attachments, Save all attachments",
+        "description": "Save attachments and Save all attachments actions in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Save email",
+        "description": "Save email action in Microsoft Outlook (macOS) package"
+      },
+      {
+        "name": "Send",
+        "description": "Send action in Microsoft Outlook (macOS) package"
+      }
+    ]
+  },
+  {
+    "package": "Play Sound package",
+    "actions": [
+      {
+        "name": "Play beep",
+        "description": "See Play beep action."
+      },
+      {
+        "name": "Play media file",
+        "description": "See Play media file action."
+      }
+    ]
+  },
+  {
+    "package": "Process Composer package",
+    "actions": [
+      {
+        "name": "Assign Human Task",
+        "description": "See Assign Human Task action."
+      },
+      {
+        "name": "Cancel Human Task",
+        "description": "See Cancel Human Task action."
+      },
+      {
+        "name": "Create a Request",
+        "description": "See Create a Request action."
+      },
+      {
+        "name": "Get Storage file",
+        "description": "See Get Storage file action."
+      },
+      {
+        "name": "Query Requests",
+        "description": "See Query Requests action."
+      },
+      {
+        "name": "Query Human Tasks",
+        "description": "See Query Human Tasks action."
+      },
+      {
+        "name": "Team Members",
+        "description": "See Team Members action."
+      },
+      {
+        "name": "Upload Storage file",
+        "description": "See Upload Storage file action."
+      }
+    ]
+  },
+  {
+    "package": "SAP BAPI package",
+    "actions": [
+      {
+        "name": "Connect",
+        "description": "Using Connect action for SAP BAPI."
+      },
+      {
+        "name": "Create function",
+        "description": "Create function action."
+      },
+      {
+        "name": "Get field value",
+        "description": "Get field value action."
+      },
+      {
+        "name": "Get structure",
+        "description": "Get structure action."
+      },
+      {
+        "name": "Get table",
+        "description": "Get table action."
+      },
+      {
+        "name": "Run function",
+        "description": "Run function action."
+      },
+      {
+        "name": "Set field value",
+        "description": "Set field value action."
+      },
+      {
+        "name": "Run standard workflow",
+        "description": "Run standard workflow action."
+      },
+      {
+        "name": "Run custom workflow",
+        "description": "Run custom workflow action."
+      }
+    ]
+  },
+  {
+    "package": "Service package",
+    "actions": [
+      {
+        "name": "Get service status",
+        "description": "See Get service status action in Services"
+      },
+      {
+        "name": "Pause service",
+        "description": "See Pause service action in Services"
+      },
+      {
+        "name": "Resume service",
+        "description": "See Resume service action in Services"
+      },
+      {
+        "name": "Start service",
+        "description": "See Start service action in Services"
+      },
+      {
+        "name": "Stop service",
+        "description": "See Stop service action in Services ."
+      }
+    ]
+  },
+  {
+    "package": "SharePoint package",
+    "actions": [
+      {
+        "name": "Configuring SharePoint domain and sites",
+        "description": "The SharePoint package connects to a particular SharePoint domain using app-based permissions. You must configure your SharePoint domain and add relevant app permissions."
+      },
+      {
+        "name": "SharePoint authenticate action",
+        "description": "Use the Authenticate action to connect to your SharePoint domain. After the authentication is successful, you can use the other command actions to perform various operations in SharePoint."
+      },
+      {
+        "name": "SharePoint folder and file",
+        "description": "Use the Folder and file actions to perform various operations in your SharePoint site. You can create, get details, delete, or rename folders in a specific SharePoint site. You can also upload, delete, download, and get files in a specified folder.SharePoint package supports FileStream as a variable. Use the Assign file action to open a FileStream for a SharePoint file, and assign it to a variable. You can then use this FileStream as a variable for the Upload file, the Upload list image, and the Upload list attachment actions."
+      },
+      {
+        "name": "SharePoint list and list items",
+        "description": "Use the List and list item actions to perform various operations in your SharePoint site. You can create, get, delete, or update list and list items in a specific SharePoint site."
+      }
+    ]
+  },
+  {
+    "package": "Text file package",
+    "actions": [
+      {
+        "name": "Get text",
+        "description": "See Using Get text action of Text file package"
+      },
+      {
+        "name": "Read variables",
+        "description": "See Read variables action"
+      }
+    ]
+  },
+  {
+    "package": "V11 Task Bot package",
+    "actions": [
+      {
+        "name": "Run",
+        "description": "See Using Run action."
+      }
+    ]
+  }
+]

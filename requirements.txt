@@ -3,3 +3,11 @@ chromadb
 python-dotenv
 beautifulsoup4
 requests
+fastapi
+uvicorn
+streamlit
+crewai
+
+networkx
+matplotlib
+firecrawl-py

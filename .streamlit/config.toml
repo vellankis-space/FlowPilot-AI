@@ -1,0 +1,19 @@
+[theme]
+# Dark Theme
+primaryColor = "#FF7A00"
+backgroundColor = "#0F172A"
+secondaryBackgroundColor = "#1F2937"
+textColor = "#E5E7EB"
+font = "sans serif"
+
+# Light Theme (WCAG AA)
+# primaryColor = "#FF7A00"
+# backgroundColor = "#FFFFFF"
+# secondaryBackgroundColor = "#F3F4F6"
+# textColor = "#111827"
+# font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+port = 8501
