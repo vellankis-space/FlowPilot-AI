@@ -1,6 +1,22 @@
+def is_valid_mermaid_syntax(syntax: str) -> bool:
+    """
+    Simple Mermaid syntax validator: checks for 'graph TD' and at least one node/edge definition.
+    Returns True if valid, False otherwise.
+    """
+    if not syntax:
+        return False
+    lines = syntax.strip().splitlines()
+    if not lines or not lines[0].strip().startswith("graph TD"):
+        return False
+    # Check for at least one node or edge definition
+    for line in lines[1:]:
+        if "[" in line or "]" in line or "--" in line or "-->" in line:
+            return True
+    return False
 from crewai import Agent, Task, Crew
 from crewai.tools import tool
 from crewai_tools import ScrapeWebsiteTool
+from backend.mermaid_syntax_search import search_mermaid_syntax
 from langchain_openai import ChatOpenAI
 from backend.services import search_rpa_actions
 from backend.diagram_generator import generate_mermaid_diagram # Added import
@@ -40,7 +56,15 @@ logger.info(f"LLM model: {llm.model_name}")
 @tool("rpa_actions_search")
 def search_rpa_actions_tool(query: str) -> str:
     """Search for RPA actions in the vector database."""
-    return search_rpa_actions(query)
+    try:
+        result = search_rpa_actions(query)
+        if not result:
+            logger.error(f"RPA actions search returned empty for query: {query}")
+            return "ERROR: No RPA actions found for the query."
+        return result
+    except Exception as e:
+        logger.error(f"RPA actions search tool failed: {e}")
+        return f"ERROR: RPA actions search tool failed: {e}"
 
 # New tool for generating Mermaid syntax
 @tool("generate_mermaid_diagram_tool")
@@ -86,6 +110,19 @@ tool_mapper_agent = Agent(
 # Instantiate the ScrapeWebsiteTool
 scrape_tool = ScrapeWebsiteTool()
 
+@tool("mermaid_syntax_search_tool")
+def mermaid_syntax_search_tool(query: str) -> str:
+    """Search for Mermaid.js syntax in the vector database collection."""
+    try:
+        results = search_mermaid_syntax(query)
+        if not results:
+            logger.error(f"Mermaid syntax search returned empty for query: {query}")
+            return "ERROR: No Mermaid syntax found for the query."
+        return results[0]
+    except Exception as e:
+        logger.error(f"Mermaid syntax search tool failed: {e}")
+        return f"ERROR: Mermaid syntax search tool failed: {e}"
+
 # Define the Mermaid Syntax Expert Agent
 mermaid_syntax_expert = Agent(
     role="Mermaid Syntax Expert",
@@ -96,7 +133,7 @@ mermaid_syntax_expert = Agent(
         "clear and concise answers to syntax-related questions."
     ),
     llm=llm,
-    tools=[scrape_tool, generate_mermaid_diagram_tool], # Added generate_mermaid_diagram_tool
+    tools=[scrape_tool, generate_mermaid_diagram_tool, mermaid_syntax_search_tool],
     allow_delegation=False,
     verbose=True
 )
@@ -142,11 +179,15 @@ def run_crew(query: str, tool_choice: str):
     )
 
     mermaid_validation_task = Task(
-        description="""Generate valid Mermaid.js syntax from the provided JSON object representing the workflow diagram. 
-        The JSON object is available in the context from the `mapping_task` output. 
-        Extract 'nodes' and 'edges' from the JSON and pass them as JSON strings to the `generate_mermaid_diagram_tool`. 
-        Ensure the output is a valid Mermaid.js syntax string. If the generated syntax is not valid, try to correct it using your knowledge of Mermaid.js syntax and the `scrape_tool` if necessary.""", # Modified description
-
+        description="""
+        Generate valid Mermaid.js syntax from the provided JSON object representing the workflow diagram.
+        The JSON object is available in the context from the `mapping_task` output.
+        Extract 'nodes' and 'edges' from the JSON and pass them as JSON strings to the `generate_mermaid_diagram_tool`.
+        Use the `mermaid_syntax_search_tool` to query the Mermaid syntax collection for exact syntax examples relevant to the diagram type and structure.
+        Log the query and result. Validate the returned syntax for correctness (e.g., check it starts with 'graph TD' and contains node/edge definitions).
+        If the search result is empty or invalid, fallback to the output of `generate_mermaid_diagram_tool`.
+        If the fallback is also invalid, try to correct it using your knowledge of Mermaid.js syntax and the `scrape_tool` if necessary.
+        """,
         agent=mermaid_syntax_expert,
         context=[mapping_task],
         expected_output="A valid Mermaid.js syntax string."
@@ -176,12 +217,22 @@ def run_crew(query: str, tool_choice: str):
             flow_diagram_json = {}
             nodes = []
             edges = []
-
     except (json.JSONDecodeError, AttributeError) as e:
         logger.error(f"Error processing flow diagram: {e}")
         flow_diagram_json = {}
         nodes = []
         edges = []
+
+    # Validate Mermaid syntax and fallback if needed
+    if not is_valid_mermaid_syntax(mermaid_syntax):
+        logger.warning("Invalid Mermaid syntax detected. Falling back to internal generation.")
+        try:
+            from backend.diagram_generator import generate_mermaid_diagram
+            mermaid_syntax = generate_mermaid_diagram(nodes, edges)
+            if not is_valid_mermaid_syntax(mermaid_syntax):
+                logger.error("Fallback Mermaid syntax is also invalid.")
+        except Exception as e:
+            logger.error(f"Error in fallback Mermaid generation: {e}")
 
     return {
         "structured_requirements": structured_requirements,
